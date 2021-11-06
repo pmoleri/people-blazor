@@ -4,7 +4,7 @@
 }
 .group {
     height: 144px;
-    background-color: var(--igx-primary-700);
+    background-color: hsla(var(--igc-primary-700));
     justify-content: center;
     align-items: stretch;
 }
@@ -13,13 +13,13 @@
     width: 36px;
     font-size: 36px;
     margin: 0 16px 0 0;
-    color: var(--igx-surface-500);
+    color: hsla(var(--igc-surface-500));
 }
 .group_1 {
     justify-content: space-between;
     padding: 4px 16px;
     flex-wrap: wrap;
-    background-color: var(--igx-grays-200);
+    background-color: hsla(var(--igc-gray-200));
     margin: 0 0 8px;
     align-items: center;
     height: max-content;
@@ -29,8 +29,8 @@
     margin: -32px 16px 32px 0;
     padding: 0 0 16px;
     border-width: 1px 1px 1px 1px;
-    background-color: var(--igx-surface-500);
-    border-color: var(--igx-grays-200);
+    background-color: hsla(var(--igc-surface-500));
+    border-color: hsla(var(--igc-gray-200));
     border-style: solid;
     align-items: stretch;
     position: relative;
@@ -39,10 +39,10 @@
 .group_3 {
     min-height: min-content;
     padding: 8px;
-    border-color: var(--igx-grays-300);
+    border-color: hsla(var(--igc-gray-300));
     border-width: 1px 0px 0px 0px;
     justify-content: center;
-    background-color: var(--igx-surface-500);
+    background-color: hsla(var(--igc-surface-500));
     border-style: solid;
     align-items: stretch;
     position: relative;
@@ -55,21 +55,21 @@
 .group_4 {
     margin: -32px 0 32px;
     border-width: 1px 1px 1px 1px;
-    background-color: var(--igx-surface-500);
-    border-color: var(--igx-grays-200);
+    background-color: hsla(var(--igc-surface-500));
+    border-color: hsla(var(--igc-gray-200));
     border-style: solid;
     align-items: stretch;
     position: relative;
     min-width: 50px;
 }
 .text_1 {
-    color: var(--igx-grays-500);
+    color: hsla(var(--igc-gray-500));
     min-width: min-content;
     height: max-content;
 }
 .group_5 {
     padding: 16px;
-    background-color: var(--igx-grays-200);
+    background-color: hsla(var(--igc-gray-200));
     margin: 0 0 32px;
     align-items: stretch;
     position: relative;
@@ -78,7 +78,7 @@
 }
 .group_6 {
     border-width: 0px 1px 0px 0px;
-    border-color: var(--igx-grays-200);
+    border-color: hsla(var(--igc-gray-200));
     border-style: solid;
     align-items: center;
     min-height: 50px;
@@ -109,22 +109,22 @@
     min-width: 50px;
 }
 .h4 {
-    color: var(--igx-surface-500);
+    color: hsla(var(--igc-surface-500));
     min-width: min-content;
     height: max-content;
 }
 .element {
-    color: var(--igx-primary-500);
+    color: hsla(var(--igc-primary-500));
 }
 .text_2 {
-    color: var(--igx-grays-900);
+    color: hsla(var(--igc-gray-900));
     height: max-content;
 }
 .group_9 {
     padding: 0 16px;
     border-width: 1px 0px 0px 0px;
     margin: 0 0 16px;
-    border-color: var(--igx-grays-200);
+    border-color: hsla(var(--igc-gray-200));
     border-style: solid;
     align-items: center;
     height: max-content;
@@ -137,7 +137,7 @@
 }
 .group_11 {
     justify-content: center;
-    background-color: var(--igx-grays-100);
+    background-color: hsla(var(--igc-gray-100));
     min-height: 50px;
     align-items: stretch;
     position: relative;
@@ -153,7 +153,7 @@
     height: max-content;
 }
 .group_13 {
-    background-color: var(--igx-surface-500);
+    background-color: hsla(var(--igc-surface-500));
 }
 .text_3 {
     width: max-content;
@@ -161,8 +161,8 @@
     height: max-content;
 }
 .avatar_1 {
-    color: var(--igx-grays-800);
-    background-color: var(--igx-grays-100);
+    color: hsla(var(--igc-gray-800));
+    background-color: hsla(var(--igc-gray-100));
 }
 .element_2 {
     margin: 0 0 8px;
